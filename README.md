@@ -139,7 +139,7 @@ DocuMind/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DocuMind.git
+git clone https://github.com/AnharEM/DocuMind.git
 
 cd DocuMind
 ```
