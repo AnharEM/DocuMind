@@ -40,19 +40,19 @@ Unlike traditional document summarizers, DocuMind leverages **Retrieval-Augmente
 
 ### Home Screen
 
-![Home](assets/home.png)
+![Home](assets/Home.png)
 
 ---
 
 ### Semantic Question Answering
 
-![Q&A](assets/qna.png)
+![Q&A](assets/QnA.png)
 
 ---
 
 ### Executive Summary
 
-![Summary](assets/summary.png)
+![Summary](assets/Summary.png)
 
 ---
 
